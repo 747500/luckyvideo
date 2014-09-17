@@ -1,0 +1,25 @@
+
+.separator {
+	height: 1px;
+	background-color: #ccc;
+	margin: 1em 0;
+	padding: 0;
+}
+
+.form {
+	padding: 0 1em;
+}
+
+.page {
+	padding: 0 1em;
+}
+
+label {
+	display: inline;
+	line-height: inherit;
+	margin: 0;
+}
+
+input {
+	margin: 0;
+}

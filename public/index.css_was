@@ -1,0 +1,64 @@
+
+html {
+	margin: 0;
+	padding: 0;
+	font-size: 100.001%;
+}
+
+body {
+	margin: none;
+	padding: none;
+	background-color: white;
+}
+
+fieldset.control-group {
+	padding: 0;
+	margin: 0 1em;
+}
+
+div.control-group {
+	padding: 0;
+	margin: 0;
+	margin-bottom: 1em;
+}
+
+.controls input[type=text] {
+	width: 6em;
+	text-align: right;
+}
+
+form {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	overflow: auto;
+	background-color: white;
+	padding: 0;
+	margin: 0;
+}
+
+fieldset {
+	width: 14em;
+	float: left;
+	padding: .5em;
+}
+
+.form-actions {
+	margin-bottom: 0;
+	clear: both;
+}
+
+.help-inline {
+	font-size: .85em;
+	display: block;
+}
+
+#wf-img {
+	margin: 0;
+	padding: 0;
+}
+
+#wf-img .content {
+	padding: 1em;
+}
